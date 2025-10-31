@@ -6,7 +6,14 @@
     <description>Recent content in ronbun sample page on mbmainsite</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 13:30:12 +0900</lastBuildDate>
     <atom:link href="https://mbyamaguchi.net/ronbun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://mbyamaguchi.net/ronbun/sample/</link>
+      <pubDate>Fri, 31 Oct 2025 13:30:12 +0900</pubDate>
+      <guid>https://mbyamaguchi.net/ronbun/sample/</guid>
+      <description>&lt;h1 id=&#34;はじめに&#34;&gt;はじめに&lt;/h1&gt;&#xA;&lt;p&gt;こちらは、論文コメント投稿ページのサンプルになります。&lt;/p&gt;&#xA;&lt;p&gt;以下のようなテンプレートに従って、論文に対するコメントをご自由に投稿してください。&lt;/p&gt;&#xA;&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;論文のタイトルを入力します。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;appealing-point-選んだ理由&#34;&gt;Appealing Point: 選んだ理由&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;この論文を選んだ理由を入力します。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;tammic&#34;&gt;TAMMIC&lt;/h1&gt;&#xA;&lt;p&gt;論文の TAMMIC を入力します。&lt;/p&gt;&#xA;&lt;h2 id=&#34;author-著者所属&#34;&gt;Author: 著者、所属&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;著者 (所属)&lt;/li&gt;&#xA;&lt;li&gt;体裁は自由です。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;motivation-研究の出発点&#34;&gt;Motivation: 研究の出発点&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;method-研究の手法&#34;&gt;Method: 研究の手法&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;insight-結果と知見&#34;&gt;Insight: 結果と知見&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;one-sentence-contribution-summary-貢献を1行でまとめる&#34;&gt;(One-sentence) Contribution Summary: 貢献を1行でまとめる&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;kurr&#34;&gt;KURR&lt;/h1&gt;&#xA;&lt;h2 id=&#34;keyword-キーワード&#34;&gt;Keyword: キーワード&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;unknown-残った課題&#34;&gt;Unknown: 残った課題&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;reflection-考察&#34;&gt;Reflection: 考察&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;reference-関連研究&#34;&gt;Reference: 関連研究&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;+++&#xA;author = &amp;ldquo;mbyamaguchi&amp;rdquo;&#xA;date = &amp;ldquo;2025-10-31T12:57:23+09:00&amp;rdquo;&#xA;categories = [[&amp;ldquo;paper&amp;rdquo;]]&#xA;description = &amp;ldquo;ronbun sample page&amp;rdquo;&#xA;draft = false&#xA;title = &amp;ldquo;ronbun sample page&amp;rdquo;&#xA;+++&lt;/p&gt;&#xA;&lt;h1 id=&#34;はじめに-1&#34;&gt;はじめに&lt;/h1&gt;&#xA;&lt;p&gt;こちらは、論文コメント投稿ページのサンプルになります。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
