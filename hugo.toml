@@ -1,0 +1,4 @@
+baseURL = 'https://mbyamaguchi.net'
+languageCode = 'en-us'
+title = 'mbmainsite'
+theme = 'hugo-bearblog'
