@@ -1,10 +1,8 @@
 +++
-categories = ["", ""]
-date = "" 
+author = ""
+date = "{{ .Date }}"
+categories = [[""]]
 description = ""
 draft = true
-image = ""
-tags = ["", ""]
 title = ""
-author = ""
 +++
